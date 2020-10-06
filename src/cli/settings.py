@@ -11,8 +11,9 @@ max_summary_len = 15
 # Data
 # ================================
 # these files are avaiable at https://www.kaggle.com/akashsdas/text-summarization/output
-# download these files and move them to ./data folder without changing their names
-# if you change their name then you have to change names here also for the respective ones
+# download these files and create a folder named data in this directory and the move the downloaded 
+# files in the ./data folder without changing their names, if you change their name then you have 
+# to change names here also for the respective ones
 
 # tokenizers
 X_TOKENIZER = './data/x_tokenizer'
