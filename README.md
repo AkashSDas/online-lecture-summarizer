@@ -18,3 +18,8 @@
 	- ✅ Students can get summary of the entire lecture of any day very **easily**.
 	- ✅ Students who has missed the lectures, by reading/listening to the summary can create a plan _on which topics to should I focus❓_ and by this they will  **save a lot of time**.
 	- ✅ Learning institutes will **save a lot of money** by using this because now they only have to save the text files. 
+
+### 🤖 AI model info
+- The model is trained using TPU in Kaggle
+- The data used for training and validating the model is from Kaggle
+- The jupyter notebook for this is present in this repo and can also be found in Kaggle 👉 [link](https://www.kaggle.com/akashsdas/text-summarization)
