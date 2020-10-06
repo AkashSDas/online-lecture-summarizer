@@ -1,3 +1,4 @@
+
 # online_lecture_summarizer
 
 ### 🌈 Problems this app solves
@@ -22,4 +23,4 @@
 ### 🤖 AI model info
 - The model is trained using TPU in Kaggle
 - The data used for training and validating the model is from Kaggle
-- The jupyter notebook for this is present in this repo and can also be found in Kaggle 👉 [link](https://www.kaggle.com/akashsdas/text-summarization)
+- The data, jupyter notebook, main model, inferences encoder and decoder models and tokenizers for this can be found in Kaggle 👉 [link](https://www.kaggle.com/akashsdas/text-summarization)
