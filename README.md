@@ -1,4 +1,4 @@
-# online_lecture_summarizer
+# online-lecture-summarizer
 
 ## 🎯 Project goal
 
